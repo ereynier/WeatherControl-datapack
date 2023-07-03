@@ -6,7 +6,7 @@ The "Weather Control" datapack is a custom Minecraft datapack that allows player
 ## Installation
 To install the "Weather Control" datapack, follow these steps:
 
-1. Download the datapack file (`WeatherControl.zip`).
+1. Download the datapack file (`WeatherControl.zip`) from [release section](https://github.com/ereynier/WeatherControl-datapack/releases).
 2. Locate your Minecraft world's save folder.
    - For singleplayer worlds, the folder is typically located at `%appdata%/.minecraft/saves/`.
    - For multiplayer servers, refer to your server provider's documentation to find the save folder.
