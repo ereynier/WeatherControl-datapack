@@ -37,6 +37,11 @@ To activate a specific weather condition, follow these steps:
    - Dropping a Thunder Weather Star will start a thunderstorm.
  4. Using a Splash Water onto the lodestone will make the weather cycle normal.
 
+### Check weather status
+```   
+/trigger w_weather
+```
+
 ## Compatibility and Known Issues
 The "Weather Control" datapack is compatible with Minecraft Java Edition 1.17 and above. However, please be aware of the following known issue:
 
